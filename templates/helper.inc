@@ -1,6 +1,12 @@
 <?php
 
 /**
+ * Helper functions.
+ *
+ * @author    Achim Sperling <achim.sperling@gmail.com>
+ */
+
+/**
  * Render a nested list of elements as HTML list item. The function calls itself in case
  * of nested elements (identified by the key 'nested').
  * @param  array          $elements

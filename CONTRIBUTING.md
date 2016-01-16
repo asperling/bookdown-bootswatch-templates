@@ -1,4 +1,4 @@
-# CONTRIBUTING
+    # CONTRIBUTING
 
 ## RESOURCES
 
@@ -9,4 +9,4 @@ If you wish to contribute to bookdown-bootswatch-templates, please be sure to re
 
 If you are working on new features, or refactoring an existing
 component, please create a proposal. You can do this in on the RFC's
-page, https://github.com/tobiju/bookdown-bootswatch-templates/wiki/RFCs.
+page, https://github.com/asperling/bookdown-bootswatch-templates/wiki/RFCs.

@@ -2,6 +2,8 @@
 /**
  * tobiju
  *
+ * @author    Tobias Jüschke
+ * @author    Achim Sperling <achim.sperling@gmail.com>
  * @link      https://github.com/tobiju/bookdown-bootswatch-templates for the canonical source repository
  * @copyright Copyright (c) 2015 Tobias Jüschke
  * @license   https://github.com/tobiju/bookdown-bootswatch-templates/blob/master/LICENSE.txt New BSD License

@@ -5,7 +5,7 @@
 Your first step is to establish a public repository from which i can pull your work into the master repository.
 
  1. Setup a GitHub account (https://github.com/), if you haven't yet
- 2. Fork the bookdown-bootswatch-templates repository (https://github.com/tobiju/bookdown-bootswatch-templates)
+ 2. Fork the bookdown-bootswatch-templates repository (https://github.com/asperling/bookdown-bootswatch-templates)
  3. Clone your fork locally and enter it (use your own GitHub username in the statement below)
 
     ```sh
@@ -17,7 +17,7 @@ Your first step is to establish a public repository from which i can pull your w
     up-to-date:
 
     ```sh
-    % git remote add upstream https://github.com/tobiju/bookdown-bootswatch-templates.git
+    % git remote add upstream https://github.com/asperling/bookdown-bootswatch-templates.git
     % git fetch upstream
     ```
 
@@ -69,12 +69,12 @@ Delta compression using up to 2 threads.
 Compression objects: 100% (18/18), done.
 Writing objects: 100% (20/20), 8.19KiB, done.
 Total 20 (delta 12), reused 0 (delta 0)
-To ssh://git@github.com/tobiju/bookdown-bootswatch-templates.git
+To ssh://git@github.com/asperling/bookdown-bootswatch-templates.git
    g5342..9k3532  HEAD -> master
 ```
 
 You can do the pull request from github. Navigate to your repository, select the branch you just created, and then
-select the "Pull Request" button in the upper right. Select the user "tobiju" as the recipient.
+select the "Pull Request" button in the upper right. Select the user "asperling" as the recipient.
 
 ### What branch to issue the pull request against?
 
@@ -109,7 +109,7 @@ branches.
 
 RSS feeds may be found at:
 
-`https://github.com/tobiju/bookdown-bootswatch-templates/commits/<branch>.atom`
+`https://github.com/asperling/bookdown-bootswatch-templates/commits/<branch>.atom`
 
 where &lt;branch&gt; is a branch in the repository.
 

@@ -2,6 +2,8 @@
   "name": "tobiju/bookdown-bootswatch-templates",
   "type": "library",
   "description": "Bookdown.io With Bootswatch Styles And Prism Syntax Highlighting",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "keywords": [
     "bookdown",
     "templates",
@@ -23,7 +25,7 @@
     }
   ],
   "require": {
-    "bookdown/bookdown": "^0.5.0"
+    "bookdown/bookdown": "@dev"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
